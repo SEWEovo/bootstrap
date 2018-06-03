@@ -1,0 +1,46 @@
+body{
+			background-repeat: no-repeat; 
+			background-size: 100% 100%;
+			background-attachment: fixed;
+		}
+		#menu li a{
+			
+			font-size: 15px;
+			color: white;
+		}
+
+		#menu li a:hover{
+			  background-color: transparent;/*重要*/
+			color:#00CD00;
+
+		}
+		.dropdown a:foucs{
+			background-color: transparent;
+
+		}
+				.dropdown a:hover{
+			background-color: transparent;
+		}
+				.dropdown a:active{
+			background-color: transparent;
+
+		}
+		.dropdown-menu{
+			background-color:transparent;
+			border: transparent;
+
+		}
+		#myCarousel{
+			margin-top: 100px;
+			text-align: center;
+			height: 500px;
+			color: white;
+			font-size: 30px;
+		}
+		.container{
+		    padding-right: 15px;
+		    padding-left: 15px;
+		    margin-right: auto;
+		    margin-left: auto;
+
+		}
