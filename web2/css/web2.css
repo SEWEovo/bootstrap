@@ -1,0 +1,36 @@
+body{
+	background-repeat: 
+	no-repeat; background-size: 100% 100%; 
+	background-attachment: fixed;
+}
+.navbar{
+	background-color: transparent;
+	border: transparent;	
+}
+#menu li a{
+	color: white;
+}
+#menu a:hover{
+	color: green;
+}
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 35px;
+}
+th{
+	text-align: center;
+}
+.pagination {
+	display: block;
+	margin-left: 40%;
+}
+.pagination li a{
+	background-color: transparent;
+}
+.dropdown-menu{
+	background-color:transparent;
+	border: transparent;
+}
